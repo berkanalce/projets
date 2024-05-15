@@ -1,0 +1,99 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "user": "Berkan",
+      "message": "hello from my website",
+      "id": 2
+    },
+    {
+      "user": "Berkan",
+      "message": "hello from my website",
+      "id": 3
+    },
+    {
+      "user": "Berkan",
+      "message": "hello from my website",
+      "id": 4
+    },
+    {
+      "user": "Berkan",
+      "message": "hello from my website",
+      "id": 5
+    },
+    {
+      "user": "Berkan",
+      "message": "hello from my website",
+      "id": 6
+    },
+    {
+      "user": "Berkan",
+      "message": "hello from my website",
+      "id": 7
+    },
+    {
+      "user": "Berkan",
+      "message": "hello from my website",
+      "id": 8
+    },
+    {
+      "user": "Berkan",
+      "message": "hello from my website",
+      "id": 9
+    },
+    {
+      "user": "Berkan",
+      "message": "hello from my website",
+      "id": 10
+    },
+    {
+      "user": "Berkan",
+      "message": "hello from my website",
+      "id": 11
+    },
+    {
+      "user": "Berkan",
+      "message": "hello from my website",
+      "id": 12
+    },
+    {
+      "user": "Berkan",
+      "message": "hello from my website",
+      "id": 13
+    },
+    {
+      "user": "Berkan",
+      "message": "hello from my website",
+      "id": 14
+    },
+    {
+      "user": "Berkan",
+      "message": "hello from my website",
+      "id": 15
+    },
+    {
+      "user": "Berkan",
+      "message": "hello from my website",
+      "id": 16
+    },
+    {
+      "user": "Berkan",
+      "message": "hello from my website",
+      "id": 17
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
